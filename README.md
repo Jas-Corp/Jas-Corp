@@ -4,16 +4,16 @@
 ### <div align="center">💻 I am Jason, developer for 4 years now</div>  
   
 
-- 📚 Currently in training at openclassrooms  
+- 🚀 Currently Freelance Developer  
   
 
--  🎓 I’m currently learning React & Vue.js  
+-  🧱 I mainly work with React, TypeScript, Adonis, and Java 
   
 
-- ☎️ You can contact me on discord ( Jas#1414 )  
+- ☎️ You can contact me on discord ( j.a.s_ )  or with mail ( ponsjasonpro@gmail.com )
   
 
-- 🔗[ to learn more click me](http://www.jasonpons.com/)  
+- 🔗 Soon my portfolio 
   
 
 <br/>  
@@ -52,6 +52,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3911/PNG/512/adonisjs_logo_icon_247704.png" alt="Git" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
